@@ -1,3 +1,3 @@
 ## Portolio
 
-An interactive repository for display my recent work and projects
+An interactive repository for display my recent work and projects.
